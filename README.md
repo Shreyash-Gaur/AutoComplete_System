@@ -30,8 +30,8 @@ An auto-complete system predicts the next word or phrase that a user intends to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AutoComplete-System.git
-   cd AutoComplete-system
+   git clone https://github.com/Shreyash-Gaur/AutoComplete_System.git
+   cd AutoComplete_System
    ```
 
 2. Install the required libraries:
@@ -48,9 +48,9 @@ An auto-complete system predicts the next word or phrase that a user intends to 
 ## Usage
 
 1. Load the Twitter dataset (`en_US.twitter.txt`) into the `./data/` directory.
-2. Run the script to preprocess data, build the language model, and evaluate it:
+2. Run the jupyter notebook to preprocess data, build the language model, and evaluate it:
    ```bash
-   python Auto_Complete.ipynb
+   jupyter notebook Auto_Complete.ipynb
    ```
 
 ## Methodology
