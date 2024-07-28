@@ -19,7 +19,7 @@ This project demonstrates the development of an auto-complete system using N-gra
 
 ## Introduction
 
-An auto-complete system predicts the next word or phrase that a user intends to type based on the context of the previously typed text. This project uses Twitter data to build an N-gram based language model that suggests the next word in a sentence.
+An auto-complete system predicts the next word or phrase that a user intends to type based on the context of the previously typed texts. This project uses Twitter data to build an N-gram based language model that suggests the next word in a sentence.
 
 ## Prerequisites
 
